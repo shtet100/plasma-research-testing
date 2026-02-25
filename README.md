@@ -1,4 +1,4 @@
-# WISP Beam–Plasma Simulation: Bump-on-Tail Instability
+# WISP Beam–Plasma Simulation: Delta-f Method
 
 A 1D electrostatic particle-in-cell simulation studying the bump-on-tail instability using the [WISP](https://github.com/Alcampopiano/wisp) framework. This project implements both **full-f** and **delta-f** particle methods, validates nonlinear saturation theory, and demonstrates Numba-based parallel scaling.
 
